@@ -1,5 +1,7 @@
 # think-logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thinkjs/think-logger.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/think-logger3.svg?style=flat-square)]()
 [![Travis](https://img.shields.io/travis/thinkjs/think-logger.svg?style=flat-square)]()
 [![Coveralls](https://img.shields.io/coveralls/thinkjs/think-logger/master.svg?style=flat-square)]()
