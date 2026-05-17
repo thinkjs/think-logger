@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-logger.
+
 # think-logger
 
 [![npm](https://img.shields.io/npm/v/think-logger3.svg?style=flat-square)]()
